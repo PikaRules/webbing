@@ -1,0 +1,12 @@
+
+
+#webbing
+page_prefix: page_
+destination_path: dist
+source_path: .
+
+#datos
+mis cosas:
+- cosa 1
+- cosa 2
+- cosa 3

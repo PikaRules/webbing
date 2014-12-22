@@ -1,0 +1,10 @@
+
+
+#DEPENDENCIES
+
+PyYaml
+http://pyyaml.org/wiki/PyYAML
+
+pygments
+
+jinja2
